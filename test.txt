@@ -1,3 +1,4 @@
 First row in file
 Second row
 Third commit
+fourth
